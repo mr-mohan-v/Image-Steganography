@@ -1,6 +1,6 @@
-# Image-Stenography:
+# Image-Steganography:
 
-Stenography is not a new or modern technique. Painters and artists across the globe have made use of this technique to conceal signatures and other hidden messages within their art or paintings.
+Steganography is not a new or modern technique. Painters and artists across the globe have made use of this technique to conceal signatures and other hidden messages within their art or paintings.
    <br/><br/>Today, digital steganography is the most common way of concealing information from third parties.
    <br/><br/>Image Steganography refers to the process of hiding data within an image file. The image selected for this purpose is called the cover image and the image obtained after steganography is called the stego image. 
 
@@ -19,7 +19,7 @@ You hide an image inside another image by encoding it into the least significant
 <br/>•	The information representing a hidden image is stored in the 4 least significant bits of a subset of pixels of the visible image.
 
 
-# Application of image stenography :
+# Application of image Steganography :
 •	Defense organisation: security from enemies
 <br/>•	Intelligence Agencies: security of person’s private information
 <br/>•	Government Agencies: store critical data like criminal record
